@@ -1,5 +1,5 @@
 # About Me:
-I am currently working on familiarizing with computer systems, C, low level languages, Linux distro, personal project with PI and its PI camera module.<br>I know Python, Lua, HTML, Command Line/Terminal, SQL, Java, JavaScript, C, Excel, Data Structures, Algorithms, LaTeX, GUIs/UIs, Interpersonal Skills<br>I am a sophmore undergraduate student in JMU who studies Computer Science and Finance<br>I am apart of the JMU Unix Users Group
+I am currently working on familiarizing with computer systems, low level languages, personal project with PI and its PI camera module.<br>I know Python, Lua, HTML, Command Line/Terminal, SQL, Java, JavaScript, C, Excel, Data Structures, Algorithms, LaTeX, GUIs/UIs, Interpersonal Skills<br>I am a sophmore undergraduate student in JMU who studies Computer Science and Finance<br>I am apart of the JMU Unix Users Group
 
 
 # Tech Stack:
